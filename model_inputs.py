@@ -43,3 +43,5 @@ class ModelInputs(object):
             print self.smb.vector().array()
         else:
             self.load_callback(self)
+
+        self.input_file.close()
