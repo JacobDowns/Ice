@@ -19,4 +19,4 @@ pcs['b'] = 1e-17**(-1./pcs['n'])
 pcs['mu'] = Constant(1.0)
 pcs['A_s'] = Constant(pcs['rho']*pcs['g']*315.0/500.)
 # Minimum thickness
-pcs['thklim'] = 10.0
+pcs['thklim'] = 1.0
