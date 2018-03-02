@@ -1,0 +1,13 @@
+*.pyc
+*~
+*.xml
+*.pvd
+*.vtu
+*.pvtu
+*.h5
+*.hdf5
+*.xdmf
+*.nc
+*.txt
+*.png
+*.p
